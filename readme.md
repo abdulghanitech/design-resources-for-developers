@@ -136,6 +136,7 @@ Create mockups of devices and other products
 | [Screen Peak](https://screenpeek.io/)| Create a mockup from a URL |
 | [Mockup Wolrd](https://www.mockupworld.co/)| The biggest source of free photo-realistic Mockups online |
 | [Collab Shot](https://www.collabshot.com/)| Real-time screen grabs and image sharing |
+| [Mockups-Design](https://mockups-design.com/)| A lot of free premium mockups. Most of them are available in few versions |
 
 ## HTML CSS Templates
 
